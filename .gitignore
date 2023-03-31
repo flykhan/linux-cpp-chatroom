@@ -332,3 +332,4 @@ Temporary Items
 *.s
 /debug
 /test
+*/test
